@@ -1,10 +1,73 @@
 [
   {
-    "p1":{
-      "name":"Elementorix",
-      "repository":"https://github.com/Shubham-1068/Elementorix",
-      "description":"Elementorix is a collaborative, open-source React component library built with modern technologies. We believe in the power of community-driven development and welcome contributors from all skill levels to help us build beautiful, reusable UI components.",
-      "stack":["React", "Tailwind CSS", "JSX"],
+    "p1": {
+      "name": "BreezeNow",
+      "repository": "https://github.com/gyanshankar1708/BreezeNow",
+      "description": "A responsive and real-time weather application built with React, Vite, and Tailwind CSS. It fetches live weather data using the WeatherAPI and displays detailed metrics including temperature, humidity, wind speed, UV index, and more.",
+      "stack": ["React", "Tailwind CSS", "Vite", "WeatherAPI"]
     },
+
+    "p2": {
+      "name": "Campus Utility Hub",
+      "repository": "https://github.com/aditya-ai00/campus-utility-hub",
+      "description": "A beginner-friendly web application providing essential student tools such as CGPA calculation, attendance tracking, exam countdown, study timer, expense tracking, and water intake monitoring in a single browser-based platform.",
+      "stack": ["HTML", "CSS", "JavaScript", "GitHub Pages"]
+    },
+
+    "p3": {
+      "name": "CommentSense",
+      "repository": "https://github.com/raJEEv02kr/CommentSense.git",
+      "description": "An open-source comment moderation API that classifies comments as positive, neutral, or negative and detects abusive, vulgar, or spam content to promote healthier online discussions.",
+      "stack": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "REST API"]
+    },
+
+    "p4": {
+      "name": "The Lighthouse",
+      "repository": "https://github.com/anushkasark08/The-Lighthouse",
+      "description": "A modern restaurant website featuring a clean UI and simple online table reservation functionality.",
+      "stack": ["HTML5", "CSS3", "JavaScript"]
+    },
+
+    "p5": {
+      "name": "QRBuilder",
+      "repository": "https://github.com/AbhiAditya02/QRBuilder",
+      "description": "A React-based QR code generator supporting color customization, logo embedding, real-time preview, and PNG download with a clean and responsive UI.",
+      "stack": ["React", "Tailwind CSS", "Vite"]
+    },
+
+    "p6": {
+      "name": "LacoPred",
+      "repository": "https://github.com/Krish033-source/LacoPred",
+      "description": "A machine learning project that predicts land prices across Indian regions using Linear Regression with one-hot encoding and CSV-based training data.",
+      "stack": ["Python", "NumPy", "Pandas", "scikit-learn", "Matplotlib", "Seaborn"]
+    },
+
+    "p7": {
+      "name": "CSV-Parser-Cpp",
+      "repository": "https://github.com/Aadi1039/CSV-Parser-Cpp",
+      "description": "A C++ in-memory CSV parser supporting header-based operations, sorting, derived columns, and exporting results through an interactive CLI.",
+      "stack": ["C++", "STL"]
+    },
+
+    "p8": {
+      "name": "Dictionary",
+      "repository": "https://github.com/Aadi1039/Dictionary",
+      "description": "A Python Tkinter desktop dictionary application that fetches word meanings and usage examples from an online dictionary API.",
+      "stack": ["Python", "Tkinter", "API"]
+    },
+
+    "p9": {
+      "name": "Quiz_project",
+      "repository": "https://github.com/khushi227cyber/online_quiz_flask",
+      "description": "A full-stack Flask-based online quiz application with MCQs, instant scoring, CSV-based question management, and live cloud deployment.",
+      "stack": ["Python", "Flask", "HTML", "CSS", "CSV", "Gunicorn"]
+    },
+
+    "p10": {
+      "name": "Habit Tracker",
+      "repository": "https://github.com/xenion80/Habit-Tracker",
+      "description": "A backend REST API for tracking habits and tasks with clean domain modeling, ownership enforcement, soft deletion, and production-grade design.",
+      "stack": ["Java 21", "Spring Boot", "Spring Data JPA", "Hibernate", "PostgreSQL", "Lombok"]
+    }
   }
 ]
