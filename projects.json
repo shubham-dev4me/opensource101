@@ -68,6 +68,12 @@
       "repository": "https://github.com/xenion80/Habit-Tracker",
       "description": "A backend REST API for tracking habits and tasks with clean domain modeling, ownership enforcement, soft deletion, and production-grade design.",
       "stack": ["Java 21", "Spring Boot", "Spring Data JPA", "Hibernate", "PostgreSQL", "Lombok"]
-    }
+    },
+    "p11" : { 
+      "name":"Elementorix",
+      "repository":"https://github.com/Shubham-1068/Elementorix",
+      "description":"Elementorix is a collaborative, open-source React component library built with modern technologies. We believe in the power of community-driven development and welcome contributors from all skill levels to help us build beautiful, reusable UI components.",
+      "stack":["React", "Tailwind CSS", "JSX"],
+    },
   }
 ]
