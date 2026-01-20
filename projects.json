@@ -73,22 +73,57 @@
     "p11": {
       "name": "Elementorix",
       "repository": "https://github.com/Shubham-1068/Elementorix",
-      "description": "Elementorix is a collaborative, open-source React component library built with modern technologies. We believe in the power of community-driven development and welcome contributors from all skill levels to help us build beautiful, reusable UI components.",
+      "description": "Elementorix is a collaborative, open-source React component library built with modern technologies and community-driven development.",
       "stack": ["React", "Tailwind CSS", "JSX"]
     },
 
     "p12": {
       "name": "Polling System",
       "repository": "https://github.com/Shiwangi3003/Polling-System",
-      "description": "A full-stack web application that allows users to create polls, cast votes, and view poll results securely. It demonstrates proper backend voting logic and seamless frontend-backend integration for surveys and feedback collection.",
+      "description": "A full-stack web application that allows users to create polls, cast votes, and view poll results securely with proper backend voting logic.",
       "stack": ["FastAPI", "MongoDB", "HTML", "CSS", "Jinja2"]
     },
 
     "p13": {
       "name": "GrowCraft",
       "repository": "https://docs.google.com/forms/d/e/1FAIpQLSf0cOAtHqw5xWv42APsNAK6aJcJ_qLns5yArM3SVY-fa32oCA/alreadyresponded",
-      "description": "A service-based platform designed to help businesses grow online while providing students with hands-on experience through structured training and internship opportunities.",
+      "description": "A service-based platform designed to help businesses grow online while offering students hands-on training and internship opportunities.",
       "stack": ["HTML", "CSS", "JavaScript", "Bootstrap"]
+    },
+
+    "p14": {
+      "name": "CampusOne",
+      "repository": "https://github.com/Nayab-Gauhar/campus_one",
+      "description": "A comprehensive Flutter application that centralizes college activities, events, and society management into one elegant platform.",
+      "stack": ["Flutter", "Dart"]
+    },
+
+    "p15": {
+      "name": "Sales Dashboard (Power BI)",
+      "repository": "https://github.com/AnjaliBarnwal2025/Pizza_Sales_Dashboard",
+      "description": "A Power BI dashboard using Power Query for data transformation and interactive visualizations to track and analyze sales performance.",
+      "stack": ["Power BI", "Power Query"]
+    },
+
+    "p16": {
+      "name": "Master ZSH",
+      "repository": "https://github.com/Nayab-Gauhar/master-zshrc",
+      "description": "A powerful, feature-rich, and well-organized ZSH configuration crafted to enhance developer productivity.",
+      "stack": ["Shell", "ZSH"]
+    },
+
+    "p17": {
+      "name": "Kingsukh GuestHouse",
+      "repository": "https://github.com/AnishPati/Kingsukh-Guesthouse",
+      "description": "A single-page hotel room booking website with a clean and user-friendly interface for showcasing guesthouse details and reservations.",
+      "stack": ["HTML", "CSS", "JavaScript"]
+    },
+
+    "p18": {
+      "name": "Typespeed",
+      "repository": "https://github.com/anshurajc8294/typespeed.git",
+      "description": "A simple and interactive typing speed test that measures WPM, accuracy, and time taken. Ideal for beginners to practice JavaScript DOM manipulation, timers, and core web development concepts.",
+      "stack": ["HTML", "CSS", "JavaScript"]
     }
   }
 ]
