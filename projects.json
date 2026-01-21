@@ -73,7 +73,7 @@
     "p11": {
       "name": "Elementorix",
       "repository": "https://github.com/Shubham-1068/Elementorix",
-      "description": "Elementorix is a collaborative, open-source React component library built with modern technologies and community-driven development.",
+      "description": "A collaborative open-source React component library built with modern technologies and community-driven development.",
       "stack": ["React", "Tailwind CSS", "JSX"]
     },
 
@@ -86,7 +86,7 @@
 
     "p13": {
       "name": "GrowCraft",
-      "repository": "https://docs.google.com/forms/d/e/1FAIpQLSf0cOAtHqw5xWv42APsNAK6aJcJ_qLns5yArM3SVY-fa32oCA/alreadyresponded",
+      "repository": "https://github.com/gyanshankar1708/GrowCraft",
       "description": "A service-based platform designed to help businesses grow online while offering students hands-on training and internship opportunities.",
       "stack": ["HTML", "CSS", "JavaScript", "Bootstrap"]
     },
@@ -115,15 +115,36 @@
     "p17": {
       "name": "Kingsukh GuestHouse",
       "repository": "https://github.com/AnishPati/Kingsukh-Guesthouse",
-      "description": "A single-page hotel room booking website with a clean and user-friendly interface for showcasing guesthouse details and reservations.",
+      "description": "A single-page hotel room booking website with a clean and user-friendly interface.",
       "stack": ["HTML", "CSS", "JavaScript"]
     },
 
     "p18": {
       "name": "Typespeed",
       "repository": "https://github.com/anshurajc8294/typespeed.git",
-      "description": "A simple and interactive typing speed test that measures WPM, accuracy, and time taken. Ideal for beginners to practice JavaScript DOM manipulation, timers, and core web development concepts.",
+      "description": "An interactive typing speed test measuring WPM, accuracy, and time, ideal for practicing JavaScript DOM manipulation and timers.",
       "stack": ["HTML", "CSS", "JavaScript"]
+    },
+
+    "p19": {
+      "name": "Quote Generator",
+      "repository": "https://github.com/Somya-keshri/Daily-Quote",
+      "description": "A Quote of the Day web app that fetches random quotes from a public API and allows users to share them on Twitter.",
+      "stack": ["HTML", "CSS", "JavaScript", "Public API"]
+    },
+
+    "p20": {
+      "name": "NutriPlan Lite",
+      "repository": "https://github.com/Subha12125/NutriPlan-Lite",
+      "description": "A high-performance, glassmorphism-style calorie tracker using the Mifflin-St Jeor Equation for personalized goals with real-time food logging and a responsive Tailwind UI.",
+      "stack": ["HTML", "CSS", "JavaScript", "Tailwind CSS"]
+    },
+
+    "p21": {
+      "name": "QR Code Generator",
+      "repository": "https://github.com/Somya-keshri/QR-Code-Generator",
+      "description": "A simple QR code generator that creates QR codes from text or URLs using a free API, featuring input validation, shake animations, and smooth transitions.",
+      "stack": ["HTML", "CSS", "JavaScript", "API"]
     }
   }
 ]
